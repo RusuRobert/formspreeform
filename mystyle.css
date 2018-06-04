@@ -4,8 +4,12 @@ div {
     padding-bottom: 50px;
     padding-left: 80px;
     width:300px;
+    margin-left: auto;
+    margin-right: auto
 }
 .inputmessage{
+  width: 239px;
+  height: 48px;
 }
 .form{
   width: 300px;
